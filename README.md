@@ -101,6 +101,7 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 | **Multilingual RAG-Chatbot Agent** | Create chatbot agent using Azure Open AI & RAG pipeline. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/chatbot-agent-RAG) |
 | **Google Gemini CV Analyzer** | Building multimodal CV analyzer using Google Gemini (Automated Resume Tracker). | Python, Google Gemini, Cloud Run | [Repo Link](https://github.com/iqbal1201/Multimodal_CV_Analyzer_Agent) |
 | **Realtime Voice Agent** | Real Time Voice Agent Using Gemini (LLM), Google Text-to-Speech (TTS), and Google Speech-to-Text (STT). | Python, Google Gemini, Google TTS, Google STT, Cloud Run | [Repo Link](https://github.com/iqbal1201/RealTime-VoiceAgent) |
+| **Agent for Booking & Scheduling** | Using Gemini model to create agent for scheduling and booking. | Python, Google Gemini | [Repo Link]  |
 
 ---
 
