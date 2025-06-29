@@ -77,17 +77,6 @@ Here are some of the technologies and tools I work with:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="YOUR_GITHUB_USERNAME's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
 ---
 
@@ -97,14 +86,14 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 ---
 
-### Data Science & Analytics Projects
+### Generative AI | Agentic AI
 
 | Project Name | Description | Technologies Used | Link |
 |---|---|---|---|
-| **[Project Alpha]** | Performed extensive exploratory data analysis and built predictive models for customer churn. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/project-alpha) |
-| **[Project Beta]** | Developed an automated reporting dashboard visualizing key business metrics using interactive plots. | Python, Dash, Plotly, SQL | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/project-beta) |
-| **[Project Gamma]** | Conducted sentiment analysis on social media data to understand public opinion on a product launch. | Python, NLTK, spaCy, TextBlob, Jupyter | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/project-gamma) |
-| **[Add more rows as needed]** | A brief summary of the project's goal and outcome. | List key tools/languages (e.g., Python, SQL, Pandas, Tableau) | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name) |
+| **Multimodal RAG Chatbot Agent** | A Multimodal Chatbot Agent which support Text and Audio as input by empowering Speech-to-Text (STT) and Text-to-Speech (TTS) in Azure Opean AI Service. The chatbot also is built using RAG pipeline for grounding the contextual information. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link]([https://github.com/YOUR_GITHUB_USERNAME/project-alpha](https://github.com/iqbal1201/multimodal_rag_chatbot)) |
+| **[Multilingual RAG-Chatbot Agent]** | Create chatbot agent using Azure Open AI & RAG pipeline. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link]([https://github.com/YOUR_GITHUB_USERNAME/project-beta](https://github.com/iqbal1201/chatbot-agent-RAG)) |
+| **[Google Gemini CV Analyzer]** | Building multimodal CV analyzer using Google Gemini (Automated Resume Tracker). | Python, Google Gemini, Cloud Run | [Repo Link]([https://github.com/YOUR_GITHUB_USERNAME/project-gamma](https://github.com/iqbal1201/Multimodal_CV_Analyzer_Agent)) |
+| **[Realtime Voice Agent]** | Real Time Voice Agent Using Gemini (LLM), Google Text-to-Speech (TTS), and Google Speech-to-Text (STT). | Python, Google Gemini, Google TTS, Google STT, Cloud Run | [Repo Link]([https://github.com/iqbal1201/RealTime-VoiceAgent]) |
 
 ---
 
