@@ -101,10 +101,9 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 | Project Name | Description | Technologies Used | Link |
 |---|---|---|---|
-| **End-to-End ML Modeling & Deployment** | About
-This is an end-to-end machine learning project, started from model development (supervised model development), pipeline for model development and GridSearchCV to find the best hyperparameter, MLOps using MlFlow, create app for model deployment using Flask, and app deployment using Docker | Python, Flask, Docker, MLOps, MLFlow, Scikitlearn, XGBoost | [Repo Link](https://github.com/iqbal1201/End2End-ML-Flask) |
+| **End-to-End ML Modeling & Deployment** | This is an end-to-end machine learning project, started from model development (supervised model development), pipeline for model development and GridSearchCV to find the best hyperparameter, MLOps using MlFlow, create app for model deployment using Flask, and app deployment using Docker | Python, Flask, Docker, MLOps, MLFlow, Scikitlearn, XGBoost | [Repo Link](https://github.com/iqbal1201/End2End-ML-Flask) |
 | **Apache Spark ML** | Machine Learning Model Development using Big Data Framework Apache Spark ML | Python, Apache Spark, SparkML | [Repo Link](https://github.com/iqbal1201/Apache_SparkML) |
-| **ML Engineering** | Machine Learning Engineer (MLE) that covers end-to-end ML project (model development, CI/CD, model deployment. Focus on project deployment using Docker and Kubernetes in Google Cloud GKE. | Python, Docker, Github Action (CI/CD), Kubernetes, Scikit-learn, Kubeflow, Flask | [Repo Link](hhttps://github.com/iqbal1201/mle_kubernetes) |
+| **ML Engineering** | Machine Learning Engineer (MLE) that covers end-to-end ML project (model development, CI/CD, model deployment. Focus on project deployment using Docker and Kubernetes in Google Cloud GKE. | Python, Docker, Github Actions (CI/CD), Kubernetes, Scikit-learn, Kubeflow, Flask | [Repo Link](hhttps://github.com/iqbal1201/mle_kubernetes) |
 | **Apache Airflow ML Pipeline** | Building ML Pipeline using Apache Airflow. | Python, TensorFlow, Docker, Apache Airflow | [Repo Link](https://github.com/iqbal1201/ApacheAirflow_ML_Pipeline) |
 
 ---
