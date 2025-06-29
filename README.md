@@ -26,12 +26,12 @@
 
 I'm a **Data Scientist**, **AI Engineer**, **ML Engineer**, and **Geospatial Data Scientist** based in **Southeast Asia (Singapore/Jakarta)**. My passion lies in **extracting insights from complex datasets**, **building intelligent systems**, and **solving real-world problems using machine learning and artificial intelligence**, including a focus on **geospatial data**.
 
-- 🔭 I’m currently working on **[your current major project, e.g., developing an AI model for remote sensing image classification, optimizing spatial analysis workflows]**
-- 🌱 I’m currently learning **[a new technology, e.g., advanced deep learning architectures, specific geospatial libraries like GDAL/OGR, distributed ML frameworks]**
+- 🔭 I’m currently working on building **Generative AI/Agentic AI solution in various industries in Asia Pacific**
+- 🌱 I’m currently learning **the intersection of Geospatial Data Science and Generative AI**
 - 👯 I’m looking to collaborate on **open-source AI/ML projects, geospatial data analysis, or impactful data science initiatives.**
-- 💬 Ask me about **machine learning, deep learning, geospatial data processing, Python for data science, and data visualization.**
-- 📫 How to reach me: **[YOUR_EMAIL]**
-- ⚡ Fun fact: **[A personal fun fact about yourself, e.g., "I once used satellite imagery to find the best spot for my morning coffee!"]**
+- 💬 Ask me about **machine learning, Generative AI, deep learning, geospatial data processing, Python for data science, and data visualization.**
+- 📫 How to reach me: **[iqbal.januadi@gmail.com]**
+
 
 ---
 
