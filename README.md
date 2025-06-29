@@ -97,6 +97,7 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 |---|---|---|---|
 | **Multimodal RAG Chatbot Agent** | A Multimodal Chatbot Agent which support Text and Audio as input by empowering Speech-to-Text (STT) and Text-to-Speech (TTS) in Azure Opean AI Service. The chatbot also is built using RAG pipeline for grounding the contextual information. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/multimodal_rag_chatbot) |
 | **Azure Search - RAG Chatbot** | A RAG chatbot using Azure Search as RAG. | Python, Azure Open AI, Azure Search Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/RAG-AzureSearch-Chatbot) |
+| **Azure - MCP** | An Model Context Protocol (MCP) in Azure. | Python, Azure Open AI | [Repo Link](https://github.com/iqbal1201/Azure-MCP) |
 | **Multilingual RAG-Chatbot Agent** | Create chatbot agent using Azure Open AI & RAG pipeline. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/chatbot-agent-RAG) |
 | **Google Gemini CV Analyzer** | Building multimodal CV analyzer using Google Gemini (Automated Resume Tracker). | Python, Google Gemini, Cloud Run | [Repo Link](https://github.com/iqbal1201/Multimodal_CV_Analyzer_Agent) |
 | **Realtime Voice Agent** | Real Time Voice Agent Using Gemini (LLM), Google Text-to-Speech (TTS), and Google Speech-to-Text (STT). | Python, Google Gemini, Google TTS, Google STT, Cloud Run | [Repo Link](https://github.com/iqbal1201/RealTime-VoiceAgent) |
