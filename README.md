@@ -43,6 +43,7 @@ Here are some of the technologies and tools I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 **Data Science & ML Frameworks:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -51,6 +52,7 @@ Here are some of the technologies and tools I work with:
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-008170?style=for-the-badge&logo=xgboost&logoColor=white)
+
 **Geospatial Libraries & Tools:**
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-348744?style=for-the-badge&logo=geopandas&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-008CBA?style=for-the-badge&logo=leaflet&logoColor=white)
@@ -58,11 +60,13 @@ Here are some of the technologies and tools I work with:
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-007ACC?style=for-the-badge&logo=esri&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL/OGR-4A7337?style=for-the-badge&logo=osgeo&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
 **Databases & Big Data:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCEE?style=for-the-badge&logo=hadoop&logoColor=white)
+
 **Cloud & MLOps:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -70,6 +74,7 @@ Here are some of the technologies and tools I work with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
+
 **Visualization & Tools:**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3B7588?style=for-the-badge&logo=seaborn&logoColor=white)
