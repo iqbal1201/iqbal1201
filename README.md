@@ -15,7 +15,7 @@
   <a href="YOUR_WEBSITE_URL" target="_blank">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:iqbal.januadi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 ### 📈 My Latest Blog Posts (Optional - Requires RSS feed integration)
 
-If you don't have a blog or prefer not to link it here, you can remove this section.
+
 
 ---
 
