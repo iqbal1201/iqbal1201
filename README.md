@@ -108,6 +108,18 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 ---
 
+
+### Computer Vision
+
+| Project Name | Description | Technologies Used | Link |
+|---|---|---|---|
+| **Image Classification using Transfer Learning** | Transfer learning techniques using popular pre-trained models: Inception, ResNet, MobileNet, and EfficientNet. | Python, Tensorflow, Transfer Learning | [Repo Link](https://github.com/iqbal1201/ImageClassification_TransferLearning) |
+| **Multiclass-Image Segmentation Unet-Resnet34-VGG16** | This project aims to create a multiclass image segmentation from aerial imagery using Unet transfer learning Resnet34 and VGG16. The image contains information about land cover (built-up area, water bodies, vegetation, and miscellaneous) |  Python, Tensorflow, Transfer LearningL | [Repo Link](https://github.com/iqbal1201/Multiclass_ImageSegmentation_UnetResnetVGG16) |
+| **Unet_TransferLearning_Resnet34** | The project aims to enhance the accuracy of palm oil plantation segmentation (aerial imagery) by integrating the U-Net architecture with transfer learning from ResNet-34. | Python, Tensorflow | [Repo Link](https://github.com/iqbal1201/Unet_TransferLearning_Resnet34) |
+| **Deep Unet** | Building a Deep Unet Architecture to Make Image Semantic Segmentation for Building Area from Satellite Imagery. | Python, TensorFlow | [Repo Link](https://github.com/iqbal1201/DeepUnet_Image) |
+
+---
+
 ### Geospatial Data Science
 
 | Project Name | Description | Technologies Used | Link |
