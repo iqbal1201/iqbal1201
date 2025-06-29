@@ -101,10 +101,11 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 | Project Name | Description | Technologies Used | Link |
 |---|---|---|---|
-| **[AI Model Deployment]** | Implemented a CI/CD pipeline for deploying a machine learning model as a REST API using Docker and FastAPI. | Python, FastAPI, Docker, Kubernetes, AWS Sagemaker | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/ai-model-deployment) |
-| **[Custom Object Detector]** | Trained a custom object detection model for identifying specific items in drone imagery. | Python, TensorFlow, Keras, OpenCV, AWS S3 | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/custom-object-detector) |
-| **[NLP Chatbot]** | Developed a conversational AI chatbot using transformer models for customer support queries. | Python, PyTorch, Hugging Face Transformers, Flask | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/nlp-chatbot) |
-| **[Add more rows as needed]** | A brief summary of the project's goal and outcome. | List key tools/languages (e.g., Python, TensorFlow, PyTorch, Docker) | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name) |
+| **End-to-End ML Modeling & Deployment** | About
+This is an end-to-end machine learning project, started from model development (supervised model development), pipeline for model development and GridSearchCV to find the best hyperparameter, MLOps using MlFlow, create app for model deployment using Flask, and app deployment using Docker | Python, Flask, Docker, MLOps, MLFlow, Scikitlearn, XGBoost | [Repo Link](https://github.com/iqbal1201/End2End-ML-Flask) |
+| **Apache Spark ML** | Machine Learning Model Development using Big Data Framework Apache Spark ML | Python, Apache Spark, SparkML | [Repo Link](https://github.com/iqbal1201/Apache_SparkML) |
+| **ML Engineering** | Machine Learning Engineer (MLE) that covers end-to-end ML project (model development, CI/CD, model deployment. Focus on project deployment using Docker and Kubernetes in Google Cloud GKE. | Python, Docker, Github Action (CI/CD), Kubernetes, Scikit-learn, Kubeflow, Flask | [Repo Link](hhttps://github.com/iqbal1201/mle_kubernetes) |
+| **Apache Airflow ML Pipeline** | Building ML Pipeline using Apache Airflow. | Python, TensorFlow, Docker, Apache Airflow | [Repo Link](https://github.com/iqbal1201/ApacheAirflow_ML_Pipeline) |
 
 ---
 
@@ -112,10 +113,9 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 | Project Name | Description | Technologies Used | Link |
 |---|---|---|---|
-| **[Urban Green Space Analysis]** | Analyzed satellite imagery to map and quantify green spaces in urban areas and assess their accessibility. | Python, GeoPandas, Rasterio, QGIS, Folium | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/urban-green-space-analysis) |
-| **[Traffic Flow Prediction]** | Built a model to predict real-time traffic flow patterns using GPS data and spatio-temporal neural networks. | Python, PyTorch, PostGIS, Apache Spark | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/traffic-flow-prediction) |
-| **[Natural Disaster Impact Mapper]** | Created an interactive web map visualizing the impact of recent floods using open-source GIS data. | JavaScript, Leaflet, Turf.js, Python, Fiona | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/disaster-impact-mapper) |
-| **[Add more rows as needed]** | A brief summary of the project's goal and outcome. | List key tools/languages (e.g., Python, GeoPandas, QGIS, PostGIS) | [Repo Link](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name) |
+| **Climate Automation Modeling** | Project software engineering to create automation workflow to proceed climate data into geospatial data. This project covers end-to-end from ETL, data processing using Python/ArcPy/Geoprocessing, dashboard visualization, and report (maps, infographics, short report) generating.. | Python, Arcpy, ArcGIS, GIS | [Repo Link](https://github.com/iqbal1201/climate_automation_modeling) |
+| **Sentinel 2 Image Classification** | Machine Learning Application for Image Classification (Sentinel 2). | Python, Tensorflow, XGBoost, Scikit-learn, numpy | [Repo Link](https://github.com/iqbal1201/Sentinel2-ML-Classification) |
+
 
 ---
 
