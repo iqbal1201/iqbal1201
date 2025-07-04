@@ -83,6 +83,22 @@ Here are some of the technologies and tools I work with:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
+
+### 📝 Research & Papers
+
+I'm passionate about contributing to the broader scientific and technical community. Here are some of my research papers and publications:
+
+---
+
+| Title | Publication/Conference | Year | Link |
+|---|---|---|---|
+| **Machine Learning and Bayesian Method For Monitoring and Forecasting Jayawijaya’s Tropical Glacier Change (Papers Track)** | International Conference on Learning Representations (ICLR) | 2025 | [Paper Link](https://www.climatechange.ai/papers/iclr2025/41) |
+| **Your Research Paper Title 2** | Journal Name / Conference Name | 2022 | [Paper Link](YOUR_PAPER_LINK_2) |
+| **Your Research Paper Title 3 (e.g., Thesis/Dissertation)** | Institution Name | 2021 | [Paper Link](YOUR_PAPER_LINK_3) |
+| **Your Research Paper Title 4** | Journal Name / Conference Name | 2021 | [Paper Link](YOUR_PAPER_LINK_4) |
+
+
 ---
 
 ## 🚀 My Projects
@@ -153,5 +169,5 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 ---
 
 <div align="center">
-  Made with ❤️ by YOUR_NAME
+  Made with ❤️ by Iqbal
 </div>
