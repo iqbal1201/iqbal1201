@@ -96,7 +96,9 @@ I'm passionate about contributing to the broader scientific and technical commun
 | **Machine Learning and Bayesian Method For Monitoring and Forecasting Jayawijaya’s Tropical Glacier Change (Papers Track)** | International Conference on Learning Representations (ICLR) | 2025 | [Paper Link](https://www.climatechange.ai/papers/iclr2025/41) |
 | **Comparison of machine learning land use-land cover supervised classifiers performance on satellite imagery sentinel 2 using lazy predict library** | Indonesian Journal of Data and Science | 2023 | [Paper Link](https://www.jurnal.yoctobrain.org/index.php/ijodas/article/view/102) |
 | **Spatial multi-criteria analysis for urban sustainable built up area based on urban heat island in Serang City** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link](https://iopscience.iop.org/article/10.1088/1755-1315/338/1/012025/meta) |
-| **Onshore oil and gas reservoir detection through mapping of hydrocarbon microseepage using remote sensing** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link]([YOUR_PAPER_LINK_4](https://iopscience.iop.org/article/10.1088/1755-1315/311/1/012083/meta)) |
+| **Onshore oil and gas reservoir detection through mapping of hydrocarbon microseepage using remote sensing** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link](https://iopscience.iop.org/article/10.1088/1755-1315/311/1/012083/meta) |
+| **Hydrocarbon Microseepage Potential Area Exploration Using Sentinel 2 Imagery** | E3S Web Conf. | 2018 | [Paper Link](https://www.e3s-conferences.org/articles/e3sconf/abs/2018/48/e3sconf_icenis18_03021/e3sconf_icenis18_03021.html) |
+| **Routing the highway development by using SuperMap Least Cost Path Analysis (LCPA) and Multi-Criteria Decision Analysis (MCDA) and its assessment toward spatial planning** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link](https://iopscience.iop.org/article/10.1088/1755-1315/561/1/012019) |
 
 
 ---
