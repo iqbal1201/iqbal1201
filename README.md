@@ -94,9 +94,9 @@ I'm passionate about contributing to the broader scientific and technical commun
 | Title | Publication/Conference | Year | Link |
 |---|---|---|---|
 | **Machine Learning and Bayesian Method For Monitoring and Forecasting Jayawijaya’s Tropical Glacier Change (Papers Track)** | International Conference on Learning Representations (ICLR) | 2025 | [Paper Link](https://www.climatechange.ai/papers/iclr2025/41) |
-| **Your Research Paper Title 2** | Journal Name / Conference Name | 2022 | [Paper Link](YOUR_PAPER_LINK_2) |
-| **Your Research Paper Title 3 (e.g., Thesis/Dissertation)** | Institution Name | 2021 | [Paper Link](YOUR_PAPER_LINK_3) |
-| **Your Research Paper Title 4** | Journal Name / Conference Name | 2021 | [Paper Link](YOUR_PAPER_LINK_4) |
+| **Comparison of machine learning land use-land cover supervised classifiers performance on satellite imagery sentinel 2 using lazy predict library** | Indonesian Journal of Data and Science | 2023 | [Paper Link](https://www.jurnal.yoctobrain.org/index.php/ijodas/article/view/102) |
+| **Spatial multi-criteria analysis for urban sustainable built up area based on urban heat island in Serang City** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link](https://iopscience.iop.org/article/10.1088/1755-1315/338/1/012025/meta) |
+| **Onshore oil and gas reservoir detection through mapping of hydrocarbon microseepage using remote sensing** | IOP Conference Series: Earth and Environmental Science | 2019 | [Paper Link]([YOUR_PAPER_LINK_4](https://iopscience.iop.org/article/10.1088/1755-1315/311/1/012083/meta)) |
 
 
 ---
