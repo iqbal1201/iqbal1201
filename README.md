@@ -103,6 +103,7 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 | **Google Gemini CV Analyzer** | Building multimodal CV analyzer using Google Gemini (Automated Resume Tracker). | Python, Google Gemini, Cloud Run | [Repo Link](https://github.com/iqbal1201/Multimodal_CV_Analyzer_Agent) |
 | **Realtime Voice Agent** | Real Time Voice Agent Using Gemini (LLM), Google Text-to-Speech (TTS), and Google Speech-to-Text (STT). | Python, Google Gemini, Google TTS, Google STT, Cloud Run | [Repo Link](https://github.com/iqbal1201/RealTime-VoiceAgent) |
 | **Agent for Booking & Scheduling** | Using Gemini model to create agent for scheduling and booking. | Python, Google Gemini | [Repo Link]  |
+| **Gemini for OCR** | Leveraging Google Gemini as foundational model for OCR application | Gemini | [Repo Link](https://github.com/iqbal1201/Gemini-OCR)  |
 | **Agent & LLM Evaluation** | Evaluate the performance of LLM/Agent using Opik Comet (hallucination metrics, usefulness, relevance). | Opik Comet | [Repo Link](https://github.com/iqbal1201/LLM_Evaluation)  |
 
 ---
