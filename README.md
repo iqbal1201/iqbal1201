@@ -96,6 +96,7 @@ Here's a curated list of some of my projects, categorized by their focus. Feel f
 
 | Project Name | Description | Technologies Used | Link |
 |---|---|---|---|
+| **Streaming Multi Task Vision Agent** | A streaming vision agent that can handle multi-tasks. This agent connect to RAG through GCP RAG Engine, vector datastore, or ChromaDB | Python, Google ADK, Google Cloud Service, ChromaDB | [Repo Link](https://github.com/iqbal1201/streaming_multitask_visionagent) |
 | **Multimodal RAG Chatbot Agent** | A Multimodal Chatbot Agent which support Text and Audio as input by empowering Speech-to-Text (STT) and Text-to-Speech (TTS) in Azure Opean AI Service. The chatbot also is built using RAG pipeline for grounding the contextual information. | Python, Azure Open AI, Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/multimodal_rag_chatbot) |
 | **Azure Search - RAG Chatbot** | A RAG chatbot using Azure Search as RAG. | Python, Azure Open AI, Azure Search Langchain, Huggingface | [Repo Link](https://github.com/iqbal1201/RAG-AzureSearch-Chatbot) |
 | **Azure - MCP** | An Model Context Protocol (MCP) in Azure. | Python, Azure Open AI | [Repo Link](https://github.com/iqbal1201/Azure-MCP) |
